@@ -8,4 +8,5 @@ def using_pop(array)
   array.pop
 end
 def pop_with_args(array,times)
-  array.times
+  times.array.pop
+end
