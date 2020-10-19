@@ -7,6 +7,6 @@ end
 def using_pop(array)
   array.pop
 end
-def pop_with_args(array,times)
-  times.array.pop
+def pop_with_args(array)
+  array.length.times.array.pop
 end
